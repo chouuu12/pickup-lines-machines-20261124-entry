@@ -1,0 +1,1 @@
+I asked my reward model what love is; it just returned your embedding, cosine similarity 1.0.
